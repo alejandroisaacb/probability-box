@@ -1,0 +1,9 @@
+I want to make a code in javascript that randomly selects a number that is inside a box for example from 1 to 5. 
+But each number in turn has a different probability. For example: 
+Number 1 has 80%
+Number 2 has 15%
+Number 3 has 3,5%
+Number 4 has 1,48%
+and Number 5 only has 0,02%
+
+I want to know how many times you needed to open boxes to get the number 5 (this value is variable for each person)
